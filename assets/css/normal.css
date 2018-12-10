@@ -1,0 +1,97 @@
+#navbar {
+    background-color: white; 
+    height: 80px;
+}    
+
+#brand {
+    background-color: teal;
+    float: left;
+    margin-left: 10%
+}
+
+#aboutme { 
+    background-color: white; 
+    padding: 20px;
+}
+
+.header-style-class {
+    margin-left: 20px; 
+    margin-right: 20px; 
+    color: white;
+}    
+
+#menu {
+    float: right;
+    margin-right: 10%;
+    margin-top: 10px;
+}
+
+#content {
+    background-color: lightgray; 
+    padding-top: 3%; 
+    padding-bottom: 3%; 
+    padding-left: 10%; 
+    padding-right: 10%
+}
+
+#aboutme {
+    background-color: white;
+    padding: 20px;
+}
+
+.teal-style-class {
+    color: teal;
+}
+
+#footer1 {
+    background-color: teal;
+    height: 10px;
+}
+
+#footer2 {
+    background-color: black; 
+    height: 50px;
+}
+
+#bio-photo {
+    width: 150px; 
+    padding: 0 15px; 
+    float: left;
+}
+
+.menu-link {
+    color: black;
+    text-decoration: none;
+}
+
+.menu-link:hover {
+    color: black;
+}
+
+.menu-link:visited {
+    color: black;
+}
+
+.portfolio-img-banner
+{
+    position: absolute; 
+    top: 150px; 
+    width: 300px;
+    text-align: center; 
+    background-color: teal; 
+    padding: 15px 0; 
+    color: white; 
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}
+
+.portfolio-img-container 
+{
+    position: relative; 
+    display: inline-block;
+}
+
+.portfolio-img 
+{
+    width: 300px;
+}
