@@ -34,6 +34,49 @@
     padding-right: 10%
 }
 
+#portfolio {
+    background-color: white;
+    padding: 20px
+} 
+.aboutme {
+    color: teal;
+}
+
+.name {
+    margin-bottom: 2px;
+}
+
+.input {
+    width: 100%;
+    height: 25px;
+}
+
+.email {
+    margin-bottom: 2px;
+}
+
+.input {
+    width: 100%;
+    height: 25px;
+}
+
+.message {
+    margin-bottom: 2px;
+}
+
+.textarea {
+    width: 100%; 
+    height: 200px;
+}
+
+.btn {
+    width: 80px; 
+    height: 25px; 
+    color: white; 
+    background-color: teal; 
+    margin-top: 5px;
+}
+
 #aboutme {
     background-color: white;
     padding: 20px;
